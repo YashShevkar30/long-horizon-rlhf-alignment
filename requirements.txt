@@ -1,0 +1,6 @@
+transformers
+trl
+torch
+milvus
+pinecone-client
+datasets
